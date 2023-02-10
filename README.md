@@ -5,7 +5,7 @@
 <p>
   <img alt="go" src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=plastic&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic&logoColor=white">
@@ -14,29 +14,30 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic&logoColor=white">
 </p>
 <p>
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat&logoColor=white">
-  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat&logoColor=white">
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic&logoColor=white">
+  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=plastic&logoColor=white">
   <img alt="redis" src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=plastic&logoColor=white">
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic&logoColor=white">
-  <!--   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat&logoColor=white"> -->
+  <!--   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic&logoColor=white"> -->
   <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9.svg?logo=webpack&style=plastic&logoColor=white">
   <img alt="Eslint" src="https://img.shields.io/badge/-Eslint-4B32C3.svg?logo=eslint&style=plastic&logoColor=white">
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E.svg?logo=prettier&style=plastic&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-%231a202c?logo=tailwind-css&style=plastic&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
   <img alt="MaterilUI" src="https://img.shields.io/badge/-MaterialUI-757575.svg?logo=materialdesign&style=plastic&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic&logoColor=white">
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
   <img alt="AWS CloundFormation" src="https://img.shields.io/badge/-AWS%20CloudFormation-232F3E.svg?logo=amazon-aws&style=plastic&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-FFFFFF.svg?logo=terraform&style=plastic&logoColor=4B32C3">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%23ffffff?style=plastic&logo=vercel&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
-  <img alt="Visual Stduio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat&logoColor=white">
-  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat&logoColor=white">
+  <img alt="Visual Stduio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=plastic&logoColor=white">
+  <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=plastic&logoColor=white">
 </p>
   
 ## ⚡ 𝗦𝘁𝗮𝘁𝘀
