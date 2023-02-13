@@ -14,7 +14,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic&logoColor=white">
 </p>
 <p>
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic&logoColor=white">
+<!--   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic&logoColor=white"> -->
   <img alt="nginx" src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=plastic&logoColor=white">
   <img alt="redis" src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=plastic&logoColor=white">
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic&logoColor=white">
